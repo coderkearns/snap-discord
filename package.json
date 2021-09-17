@@ -1,6 +1,6 @@
 {
   "name": "@coderkearns/snap-discord",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/coderkearns/snap-discord/issues"
   },
-  "homepage": "https://github.com/coderkearns/snap-discord#readme"
+  "homepage": "https://github.com/coderkearns/snap-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7"
+  }
 }
